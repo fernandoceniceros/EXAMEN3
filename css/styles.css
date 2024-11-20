@@ -1,0 +1,40 @@
+/* Archivo: styles.css */
+/* Estilos compartidos para todas las páginas del examen III de Diseño Web */
+/* Autor: Fernando Ceniceros Quiñones */
+/* Fecha: 20 de noviembre de 2024 */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #044040;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #16232E;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+#text-area {
+    font-size: 18px;
+    color: #333;
+}
